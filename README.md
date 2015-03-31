@@ -1,2 +1,2 @@
 # micromorganism
-Materials and experiments for my person website.
+Theoretically this is where I'm putting website stuff.
